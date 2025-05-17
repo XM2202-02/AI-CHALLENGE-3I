@@ -1,6 +1,6 @@
     # AI-CHALLENGE-3I
     # MEAL at UEH Canteen 🍱 –  ONLY WITH F5! 💻
-Link Train CNN + Menu.Json: https://drive.google.com/drive/folders/1E80qmgxtx1FlrWUAK8x9_vDNKX_DSDCc?usp=sharing
+Link Train CNN + Menu.Json: https://drive.google.com/drive/folders/1E80qmgxtx1FlrWUAK8x9_vDNKX_DSDCc?usp=sharing    
 Hệ thống Nhận Diện Món Ăn Và Tính Tiền Tự Động
 Tổng quan dự án
 Đây là một hệ thống ứng dụng AI vào nhận diện và tính tiền món ăn Việt Nam. Hệ thống sử dụng YOLOv10n để phát hiện món ăn trong ảnh và CNN để phân loại tên món. Sau đó đối chiếu với file menu.json để tính giá và hiển thị hóa đơn trực tiếp kèm hình ảnh từng món.
